@@ -62,3 +62,9 @@
 #board-of-directors{
     padding-left: 30rem;
 }
+
+#history-picture{
+    padding-top: 10rem;
+}
+
+
