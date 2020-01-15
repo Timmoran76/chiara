@@ -1,0 +1,64 @@
+#history-header{
+    color: rgb(48,106,179);
+}
+
+#history-text{
+    font-size: 15px;
+}
+
+#history-section{
+    padding-top: 3rem;
+    padding-bottom: 15rem;
+}
+
+#staff-header{
+    color: rgb(48,106,179);
+}
+
+#gretchen{
+    color: rgb(170,198,250);
+    font-size: 15px;
+}
+
+#karen{
+    color: rgb(170,198,250);
+    font-size: 15px;
+}
+
+#sis-email{
+    font-size: 15px;
+}
+
+#karen-email{
+    font-size: 15px;
+}
+
+#sis-role{
+    font-size: 15px;
+}
+
+#karen-role{
+    font-size: 15px;
+}
+
+#officers-header{
+    color: rgb(170,198,250);
+    font-size: 15px;
+}
+
+#officers-list{
+    font-size: 15px;
+}
+
+#members-header{
+    color: rgb(170,198,250);
+    font-size: 15px;
+}
+
+#members-list{
+    font-size: 15px;
+}
+
+#board-of-directors{
+    padding-left: 30rem;
+}
