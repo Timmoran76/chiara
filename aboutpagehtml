@@ -27,8 +27,8 @@
                 Chiara Home was founded in the 800th anniversary of the death of a Franciscan Saint, Clare of Assisi. Saint Clare is known for her care of the outcast. The name Clare in Italian is “Chiara” (key ARE uh). Thus, the name Chiara Home. </p>
         </div>
 
-        <div class = "col-md-2">
-            <img src = "https://drive.google.com/drive/u/0/folders/1PXpCe8vhLbmRBQIqzU1QV-uAGtbKgYkb" width = 400 alt = history>
+        <div id = "history-picture" class = "col-md-2">
+            <img src = "history.JPG" width = 400 alt = history>
         </div>
     </div>
 
@@ -54,7 +54,7 @@
         </div>
 
         <div class = "col-md-2">
-            <img src = "https://drive.google.com/drive/u/0/folders/1PXpCe8vhLbmRBQIqzU1QV-uAGtbKgYkb" width = 200 alt = Gretchen>
+            <img src = "Joel & Sr. Gretchen (1).jpg" width = 200 alt = Gretchen>
         </div>
     </div>
 
@@ -109,7 +109,23 @@
     </div>
 
    
+
+
+
 </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
