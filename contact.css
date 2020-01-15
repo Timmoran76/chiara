@@ -1,0 +1,32 @@
+#contact {
+    text-align: left;
+    font-family: 'Ubuntu', sans-serif;
+    color: grey;
+}
+
+#contact h1 {
+    color:#132c86;
+}
+
+#contact h2 {
+    color: rgb(170,198,250);
+}
+
+#contact h3 {
+    color: rgb(48,106,179);
+}
+
+#contact p{
+    color : rgb(112,112,112);
+}
+
+
+
+.footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    background-color: lightgrey;
+    width: 100%;
+
+}
