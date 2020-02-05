@@ -1,0 +1,33 @@
+﻿#header {
+    background-color: #A8C6FA;
+}
+
+#navbar {
+    margin-bottom: 50px;
+}
+
+#navbarAgain {
+    background-color: #A8C6FA;
+}
+
+#footer {
+    background-color: #bfbfbf;
+    font-size: 12px;
+    padding: 10px;
+}
+
+#bigbutton {
+    height: 100px;
+    line-height: 75px;
+}
+
+#theRow {
+    margin-right: 50px;
+    margin-left: 75px;
+    margin-bottom: 50px;
+}
+
+img.topLogo {
+    max-width: 40%;
+    max-height: 40%;
+}
