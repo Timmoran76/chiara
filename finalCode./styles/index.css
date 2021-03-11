@@ -1,0 +1,123 @@
+#main {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#logo {
+    padding-bottom: 2rem;
+}
+
+@media screen and (min-width: 767px) {
+    #logo2 {
+        width: 0%;
+    }
+
+    #topRow {
+        margin-right: -7rem;
+        background-color: rgb(233, 236, 239);
+    }
+
+    .fake {
+        padding: 1rem;
+    }
+
+    #theRow {
+        padding-top: 1rem;
+    }
+}
+
+@media screen and (min-width: 767px) and (max-width: 987px) {
+    #blurb {
+        padding-left: 1rem;
+    }
+}
+
+@media screen and (min-width: 574px) and (max-width: 766px) {
+    #logo2 {
+        width: 50%;
+        padding-top: 6rem;
+        padding-bottom: 1rem;
+    }
+
+    #logo {
+        width: 0%;
+    }
+
+    #blurb {
+        padding-left: 1rem;
+    }
+
+    #facebookCol {
+        margin-bottom: 2rem;
+    }
+  }
+
+@media screen and (max-width: 574px) {
+    #logo2 {
+        width: 50%;
+        padding-top: 4rem;
+        padding-bottom: 1rem;
+    }
+
+    #logo {
+        width: 0%;
+    }
+
+    #blurb {
+        padding-left: 1rem;
+    }
+
+    #facebookCol {
+        margin-bottom: 4rem;
+        padding-left: 2rem;
+    }
+
+    .navbar-custom {
+        padding-top: 2rem;
+        padding-bottom: 1rem;
+    }
+}
+
+#facebookCol {
+    padding-bottom: 6rem;
+}
+
+img.topLogo {
+    max-width: 40%;
+    max-height: 40%;
+}
+
+
+#header {
+    background-color: #A8C6FA;
+}
+
+#navbarAgain {
+    background-color: #A8C6FA;
+}
+
+#top {
+    text-align: center;
+    font-style: italic;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#sticky-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-top:.5rem;
+    padding-bottom:.5rem;
+    background-color: lightgrey;
+    text-align: center;
+  }
+
+  .jumbotron {
+      margin-top: 1rem;
+  }
+
+.navbar-custom {
+background-color:  rgb(170,198,250);
+width: 100%;
+}
+  
+
