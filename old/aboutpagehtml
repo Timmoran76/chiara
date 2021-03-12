@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+    <title> Chiara Home </title>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="chiaraabout.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <div class = "container">
+    <div class = "row" id = "history-section">
+        <div class = "col-md-10">
+            <div id = "history-header">
+                <h1>History</h1>
+            </div>
+            <hr style = "border: .5px solid rgb(112, 112, 112)">
+            <p id = "history-text">  Chiara Home, Inc. was founded in 1993 by Sister Gretchen Clark and Sister Sharon Dillon. These two women are members of the religious community, the Sisters of Saint Joseph, Third Order of Saint Francis.
+
+                Chiara Home began as occasional child care for children with special needs in the sisters’ home. As word spread, they became aware of the critical need for respite care that was present in the community.
+       
+                Chiara Home was founded in the 800th anniversary of the death of a Franciscan Saint, Clare of Assisi. Saint Clare is known for her care of the outcast. The name Clare in Italian is “Chiara” (key ARE uh). Thus, the name Chiara Home. </p>
+        </div>
+
+        <div id = "history-picture" class = "col-md-2">
+            <img src = "history.JPG" width = 400 alt = history>
+        </div>
+    </div>
+
+    <div class = "row">
+        <div class = "col-md-10" id = "staff-section">
+            <div id = "staff-header">
+                <h1>Staff</h1>
+            </div>
+            <hr style = "border: .5px solid rgb(112, 112, 112)">
+        </div>
+    </div>
+
+    <div class = "row" id = "staff-section">
+        <div class = "col-md-7">
+            <div id = "gretchen">
+                <p><b>Sister Gretchen Clark</b></p>
+            </div>
+            <p id = "sis-role">President and Co-Founder</p>
+        </div>
+
+        <div class = "col-md-3" id = "sis-email">
+            <p>sis@chiarahomerespite.org</p>
+        </div>
+
+        <div class = "col-md-2">
+            <img src = "Joel & Sr. Gretchen (1).jpg" width = 200 alt = Gretchen>
+        </div>
+    </div>
+
+
+    <div class = "row" id = "staff-section">
+        <div class = "col-md-7">
+            <div id = "karen">
+                <p><b>Karen Shirk</b></p>
+            </div>
+            <p id = "karen-role">Director</p>
+        </div>
+
+        <div class = "col-md-3" id = "karen-email">
+            <p>development@chiarahomerespite.org</p>
+        </div>
+
+        <div class = "col-md-2">
+            <img src = "https://4pawsforability.org/wp-content/uploads/2012/04/Karen.jpeg" width = 200 alt = Karen>
+        </div>
+    </div>
+
+    <div class = "row" id = "board-of-directors">
+        <div class = col-md-3>
+            <div id = "officers-header">
+                <p><b>Officers</b></p>
+            </div>
+            <div id = "officers-list">
+                <p><b>Aaron Sheets</b>: Co-Chair</p>
+                <p><b>Patty Tyl</b>: Co-Chair</p>
+                <p><b>Tom Ross</b>: Treasurer</p>
+                <p><b>Kevin Pockrandt</b>: Secretary</p>
+            </div>
+        </div>
+
+        <div class = "col-md-3">
+            <div id = "members-header">
+                <p><b>Members</b></p>
+            </div>
+            <div id = "members-list">
+                <p>Tara Antonucci</p>
+                <p>Ryan Edward P. Arevalo</p>
+                <p>James Gillen</p>
+                <p>Judy Hodgson</p>
+                <p>Susan Keating</p>
+                <p>Mary Jo Ogren</p>
+                <p>Pam Proctor</p>
+                <p>Andrew Shaefer</p>
+                <p>Brian Sucharetza, M.D</p>
+                <p>Kim Tordi</p>
+            </div>
+        </div>
+    </div>
+
+   
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
